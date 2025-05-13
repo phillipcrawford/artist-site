@@ -110,3 +110,43 @@ main {
   margin: auto;
   background-color: #fff;
 }
+
+.painting-page {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.painting-container {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.painting-image img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
+
+.painting-details h2 {
+  margin-bottom: 0.5rem;
+  font-size: 2rem;
+}
+
+.painting-details p {
+  margin: 0.3rem 0;
+  line-height: 1.6;
+}
+
+.description {
+  margin-top: 1rem;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 2rem;
+  color: #333;
+  text-decoration: underline;
+}
