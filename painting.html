@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>Painting Title - Artist Name</title>
+    <title>Painting - Artist Name</title>
     <link rel="stylesheet" href="css/styles.css" />
 </head>
 <body>
@@ -20,20 +20,19 @@
 <main class="painting-page">
     <div class="painting-container">
         <div class="painting-image">
-            <img src="images/painting1.jpg" alt="Mountain Light by Artist Name" />
+            <img id="painting-img" src="" alt="" />
         </div>
         <div class="painting-details">
-            <h2>Mountain Light</h2>
-            <p><strong>Medium:</strong> Oil on canvas</p>
-            <p><strong>Dimensions:</strong> 24" x 36"</p>
-            <p><strong>Year:</strong> 2023</p>
-            <p class="description">
-                This piece captures the shifting light of late afternoon on the high ridges of Montana. The artist explores the movement of air and the stillness of rock in a carefully layered composition.
-            </p>
+            <h2 id="painting-title">Loading...</h2>
+            <p><strong>Medium:</strong> <span id="painting-medium"></span></p>
+            <p><strong>Dimensions:</strong> <span id="painting-dimensions"></span></p>
+            <p><strong>Year:</strong> <span id="painting-year"></span></p>
+            <p class="description" id="painting-description"></p>
             <a href="gallery.html" class="back-link">← Back to Gallery</a>
         </div>
     </div>
 </main>
+
 <script src="js/paintings.js"></script>
 <script src="js/painting.js"></script>
 </body>
