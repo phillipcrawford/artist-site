@@ -59,10 +59,33 @@ main {
 }
 
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  justify-content: center;
+  padding: 2rem;
+}
+
+.gallery h2 {
+  text-align: center;
+  margin-bottom: 2rem;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.gallery-grid img {
+  width: 100%;
+  height: auto;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  transition: transform 0.2s ease;
+}
+
+.gallery-grid img:hover {
+  transform: scale(1.03);
+  border-color: #999;
 }
 
 .gallery img {
