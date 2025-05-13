@@ -48,3 +48,19 @@ main {
   cursor: pointer;
   border: 1px solid #ccc;
 }
+
+.hero-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.home-content {
+  padding: 2rem;
+  max-width: 800px;
+  margin: auto;
+  background-color: #fff;
+}
