@@ -15,7 +15,7 @@ const paintings = [
     dimensions: '30" x 40"',
     year: 2022,
     description: "A contemplative view of frozen creeks and quiet woods. The stillness of winter is rendered with subtle color harmonies.",
-    image: "imagdes/cat2.jpg"
+    image: "imagees/cat2.jpg"
   }
   // Add more paintings as needed
 ];
