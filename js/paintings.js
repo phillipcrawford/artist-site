@@ -14,7 +14,7 @@ const paintings = [
     medium: "Oil on linen",
     dimensions: '30" x 40"',
     year: 2022,
-    description: "A contdempacldsative view of frozen creeks and quiet woods. The stillness of winter is rendered with subtle color harmonies.",
+    description: "A contdempacldseative view of frozen creeks and quiet woods. The stillness of winter is rendered with subtle color harmonies.",
     image: "images/cat2.jpg"
   }
   // Add more paintings as needed
