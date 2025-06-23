@@ -25,6 +25,33 @@ const paintings = [
     year: 2022,
     description: "A contemplative view of frozen creeks and quiet woods. The stillness of winter is rendered with subtle color harmonies.",
     image: "images/cat3.jpg"
+  },
+  {
+    id: 4,
+    title: "Dennis",
+    medium: "Oil on linen",
+    dimensions: '30" x 40"',
+    year: 2022,
+    description: "A contemplative view of frozen creeks and quiet woods. The stillness of winter is rendered with subtle color harmonies.",
+    image: "images/cat4.jpg"
+  },
+  {
+    id: 5,
+    title: "Elliot",
+    medium: "Oil on linen",
+    dimensions: '30" x 40"',
+    year: 2022,
+    description: "A contemplative view of frozen creeks and quiet woods. The stillness of winter is rendered with subtle color harmonies.",
+    image: "images/cat2.jpg"
+  },
+  {
+    id: 6,
+    title: "Ferdinand",
+    medium: "Oil on linen",
+    dimensions: '30" x 40"',
+    year: 2022,
+    description: "A contemplative view of frozen creeks and quiet woods. The stillness of winter is rendered with subtle color harmonies.",
+    image: "images/cat3.jpg"
   }
   // Add more paintings as needed
 ];
