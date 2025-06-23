@@ -150,3 +150,7 @@ main {
   color: #333;
   text-decoration: underline;
 }
+
+body.gallery-bg {
+  background-color: #D6B588;
+}
