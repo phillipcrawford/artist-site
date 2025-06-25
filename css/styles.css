@@ -85,7 +85,7 @@ main {
 
 .gallery-grid img:hover {
   transform: scale(1.03);
-  border-color: #9995;
+  border-color: #99954;
 }
 
 .gallery img {
