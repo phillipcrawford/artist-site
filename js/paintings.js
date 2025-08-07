@@ -1,12 +1,16 @@
 const paintings = [
   {
     id: 1,
-    title: "Adam",
+    title: "Still Life in Greens",
     medium: "Oil on canvas",
     dimensions: '24" x 36"',
     year: 2023,
-    description: "This piece captures the shifting light of late afternoon on the high ridges of Montana. The artist explores the movement of air and the stillness of rock.",
-    image: "images/cat1.jpg"
+    description:  "While painting in Diana Tremaine’s studio, she suggested I treat a still life I was about to paint to brush strokes that mirrored Cezanne’s. I loved consciously adopting Cezanne’s brush dance on this canvas, his charming ways of accenting color by outlining objects only slightly. Hardly any dead, flat spaces of color. They all shimmer,
+                      alive with accented brush marks. His background colors vie for the attention of foreground ones. Color for Cezanne, takes on the importance of form. Intuitively, I too have most often, in early works as well as present ones, sublimated form, and sought to make color dominant.",
+    image: "images/still_life_in_greens_2.jpg"
+    "While painting in Diana Tremaine’s studio, she suggested I treat a still life I was about to paint to brush strokes that mirrored Cezanne’s. I loved consciously adopting Cezanne’s brush dance on this canvas, his charming ways of accenting color by outlining objects only slightly. Hardly any dead, flat spaces of color. They all shimmer,
+     alive with accented brush marks. His background colors vie for the attention of foreground ones. Color for Cezanne, takes on the importance of form. Intuitively, I too have most often, in early works as well as present ones, sublimated form, and sought to make color dominant."
+
   },
   {
     id: 2,
