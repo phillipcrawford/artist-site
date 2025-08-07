@@ -8,9 +8,6 @@ const paintings = [
     description:  "While painting in Diana Tremaine’s studio, she suggested I treat a still life I was about to paint to brush strokes that mirrored Cezanne’s. I loved consciously adopting Cezanne’s brush dance on this canvas, his charming ways of accenting color by outlining objects only slightly. Hardly any dead, flat spaces of color. They all shimmer,
                       alive with accented brush marks. His background colors vie for the attention of foreground ones. Color for Cezanne, takes on the importance of form. Intuitively, I too have most often, in early works as well as present ones, sublimated form, and sought to make color dominant.",
     image: "images/still_life_in_greens_2.jpg"
-    "While painting in Diana Tremaine’s studio, she suggested I treat a still life I was about to paint to brush strokes that mirrored Cezanne’s. I loved consciously adopting Cezanne’s brush dance on this canvas, his charming ways of accenting color by outlining objects only slightly. Hardly any dead, flat spaces of color. They all shimmer,
-     alive with accented brush marks. His background colors vie for the attention of foreground ones. Color for Cezanne, takes on the importance of form. Intuitively, I too have most often, in early works as well as present ones, sublimated form, and sought to make color dominant."
-
   },
   {
     id: 2,
