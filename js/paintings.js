@@ -15,7 +15,7 @@ const paintings = [
     dimensions: '30" x 40"',
     year: 2022,
     description: "A a coffee table book published in 2019 which has gone through two printings and is now sold out. Bozeman became a subject for me to paint the day a fellow artist spoke about her impending trip to Tuscany to paint its charming towns. I only had to look around on Main Street to find our own very charming town as a subject. I spent five years painting a total of 47 paintings, oil and watercolor, before the text by Bozeman’s outstanding writers followed. Most of the originals have found buyers. There remains about ten that are available.",
-    image: "images/BFTH.jpg"
+    image: "images/bfth.jpg"
   },
   {
     id: 3,
