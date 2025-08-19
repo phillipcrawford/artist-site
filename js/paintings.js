@@ -14,14 +14,7 @@ const paintings = [
     medium: "Oil on canvas",
     dimensions: '40" L x 30" W',
     year: 2022,
-    description: "Painting this still-life brought me much pleasure and taught me a few painting insights.
-    The first was the value of beginning with an underpainting, usually an acrylic color, before tackling any details.
-    For this piece I tinted purple with some white and, in this case, the coolness of that color electrified the large central object,
-    a yellow watering can. The yellow began to glow as I painted over the cool purple. For the first time, I had to deal with reflective
-    properties of a metal bowl and with highlights to make the metal metallic. Such joy before my very eyes. Behind the various objects
-    chosen by artist mentor Diana Tremaine, as she staged this particular still-life, she included a patterned woolen blanket as backdrop:
-    its tactile presence in the multi-level arrangement challenged this painter. The Yellow Watering Can is a painting over which a viewer
-    might linger to discover a multitude of objects and the play of yellows, purples and reds.",
+    description: "Painting this still-life brought me much pleasure and taught me a few painting insights. The first was the value of beginning with an underpainting, usually an acrylic color, before tackling any details. For this piece I tinted purple with some white and, in this case, the coolness of that color electrified the large central object, a yellow watering can. The yellow began to glow as I painted over the cool purple. For the first time, I had to deal with reflective properties of a metal bowl and with highlights to make the metal metallic. Such joy before my very eyes. Behind the various objects chosen by artist mentor Diana Tremaine, as she staged this particular still-life, she included a patterned woolen blanket as backdrop: its tactile presence in the multi-level arrangement challenged this painter. The Yellow Watering Can is a painting over which a viewer might linger to discover a multitude of objects and the play of yellows, purples and reds.",
     image: "images/yellow_watering_can.jpg"
   },
   {
