@@ -10,21 +10,28 @@ const paintings = [
   },
   {
     id: 2,
+    title: "Yellow Watering Can",
+    medium: "Oil on canvas",
+    dimensions: '40" L x 30" W',
+    year: 2022,
+    description: "Painting this still-life brought me much pleasure and taught me a few painting insights.
+    The first was the value of beginning with an underpainting, usually an acrylic color, before tackling any details.
+    For this piece I tinted purple with some white and, in this case, the coolness of that color electrified the large central object,
+    a yellow watering can. The yellow began to glow as I painted over the cool purple. For the first time, I had to deal with reflective
+    properties of a metal bowl and with highlights to make the metal metallic. Such joy before my very eyes. Behind the various objects
+    chosen by artist mentor Diana Tremaine, as she staged this particular still-life, she included a patterned woolen blanket as backdrop:
+    its tactile presence in the multi-level arrangement challenged this painter. The Yellow Watering Can is a painting over which a viewer
+    might linger to discover a multitude of objects and the play of yellows, purples and reds.",
+    image: "images/yellow_watering_can.jpg"
+  },
+  {
+    id: 3,
     title: "Bozeman From The Heart",
     medium: "Oil on linen",
     dimensions: '30" x 40"',
     year: 2022,
     description: "A coffee table book published in 2019 which has gone through two printings and is now sold out. Bozeman became a subject for me to paint the day a fellow artist spoke about her impending trip to Tuscany to paint its charming towns. I only had to look around on Main Street to find our own very charming town as a subject. I spent five years painting a total of 47 paintings, oil and watercolor, before the text by Bozeman’s outstanding writers followed. Most of the originals have found buyers. There remains about ten that are available.",
     image: "images/BFTH.jpg"
-  },
-  {
-    id: 3,
-    title: "Chuck",
-    medium: "Oil on linen",
-    dimensions: '30" x 40"',
-    year: 2022,
-    description: "A contemplative view of frozen creeks and quiet woods. The stillness of winter is rendered with subtle color harmonies.",
-    image: "images/cat3.jpg"
   },
   {
     id: 4,
