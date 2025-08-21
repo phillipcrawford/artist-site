@@ -14,7 +14,7 @@ if (painting) {
   document.getElementById("painting-medium").textContent = painting.medium;
   document.getElementById("painting-dimensions").textContent = painting.dimensions;
   document.getElementById("painting-year").textContent = painting.year;
-  document.getElementById("painting-description").textContent = painting.description;
+  document.getElementById("painting-desscription").textContent = painting.description;
 } else {
   document.querySelector(".painting-container").innerHTML = "<p>Painting not found.</p>";
 }
