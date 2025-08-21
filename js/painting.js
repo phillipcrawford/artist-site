@@ -16,5 +16,5 @@ if (painting) {
   document.getElementById("painting-year").textContent = painting.year;
   document.getElementById("painting-description").textContent = painting.description;
 } else {
-  document.querySelector(".painting-container").innerHTML = "<p>Painting not found.</p>";
+  document.querySelector(".painting-container").innerHTML = "<p>Paintwing not found.</p>";
 }
