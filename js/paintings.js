@@ -28,6 +28,15 @@ const paintings = [
   },
   {
     id: 4,
+    title: "Bozeman From The Heart",
+    medium: "Oil on linen",
+    dimensions: '30" x 40"',
+    year: 2022,
+    description: "A coffee table book published in 2019 which has gone through two printings and is now sold out. Bozeman became a subject for me to paint the day a fellow artist spoke about her impending trip to Tuscany to paint its charming towns. I only had to look around on Main Street to find our own very charming town as a subject. I spent five years painting a total of 47 paintings, oil and watercolor, before the text by Bozeman’s outstanding writers followed. Most of the originals have found buyers. There remains about ten that are available.",
+    image: "images/hey_day_window_original.jpg"
+  },
+  {
+    id: 5,
     title: "Dennis",
     medium: "Oil on linen",
     dimensions: '30" x 40"',
@@ -36,7 +45,7 @@ const paintings = [
     image: "images/cat4.jpg"
   },
   {
-    id: 5,
+    id: 6,
     title: "Elliot",
     medium: "Oil on linen",
     dimensions: '30" x 40"',
@@ -45,7 +54,7 @@ const paintings = [
     image: "images/cat2.jpg"
   },
   {
-    id: 6,
+    id: 7,
     title: "Ferdinand",
     medium: "Oil on linen",
     dimensions: '30" x 40"',
