@@ -75,6 +75,10 @@ main {
   margin: 0 auto;
 }
 
+.gallery-spacer {
+  height: 2rem;
+}
+
 /* Center the 2-item gallery grid */
 .gallery-grid:nth-of-type(2) {
   grid-template-columns: 1fr 1fr;
