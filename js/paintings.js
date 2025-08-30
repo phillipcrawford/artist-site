@@ -23,7 +23,7 @@ const paintings = [
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
     year: 2022,
-    description: "",
+    description: "asdf",
     image: "images/hey_day_window_original.jpg"
   },
   {
