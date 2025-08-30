@@ -28,6 +28,24 @@ const paintings = [
   },
   {
     id: 4,
+    title: "Birthday Bouquet",
+    medium: "Oil on canvas",
+    dimensions: '30" x 40"',
+    year: 2022,
+    description: "",
+    image: "images/birthday_bouquet.jpg"
+  },
+  {
+    id: 5,
+    title: "Flowers on the Alter",
+    medium: "Oil on canvas",
+    dimensions: '30" x 40"',
+    year: 2022,
+    description: "",
+    image: "images/flowers_on_the_alter.jpg"
+  },
+  {
+    id: 6,
     title: "Bozeman From The Heart",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
@@ -36,7 +54,7 @@ const paintings = [
     image: "images/BFTH.jpg"
   },
   {
-    id: 5,
+    id: 7,
     title: "Dennis",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
@@ -45,7 +63,7 @@ const paintings = [
     image: "images/cat4.jpg"
   },
   {
-    id: 6,
+    id: 8,
     title: "Elliot",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
@@ -54,7 +72,7 @@ const paintings = [
     image: "images/cat2.jpg"
   },
   {
-    id: 7,
+    id: 9,
     title: "Ferdinand",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
