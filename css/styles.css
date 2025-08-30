@@ -75,14 +75,17 @@ main {
   margin: 0 auto;
 }
 
-/* Special styling for Still Lifes section with 5 items */
-.gallery h2:first-of-type + .gallery-grid {
+/* Olympic rings layout - target first gallery specifically */
+.gallery-grid:first-of-type {
   grid-template-columns: repeat(3, 1fr);
 }
 
-.gallery h2:first-of-type + .gallery-grid a:nth-child(4),
-.gallery h2:first-of-type + .gallery-grid a:nth-child(5) {
-  transform: translateX(50%);
+.gallery-grid:first-of-type a:nth-child(4) {
+  grid-column: 2;
+}
+
+.gallery-grid:first-of-type a:nth-child(5) {
+  grid-column: 3;
 }
 
 .gallery-grid img {
