@@ -46,9 +46,9 @@ const paintings = [
   },
   {
     id: 6,
-    title: "Bozeman From The Heart",
+    title: "Peppers",
     medium: "Oil on canvas",
-    dimensions: '30" x 40"',
+    dimensions: '24" L x 30" W',
     year: 2022,
     description: "This still life was set up in the studio of artist, Diana Tremaine. I have had the pleasure of working with her and several other artists in her studio over several years. She has much to do with my development as an artist.",
     image: "images/peppers.jpg"
