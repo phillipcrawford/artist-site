@@ -77,11 +77,10 @@ main {
 
 .gallery-grid-2col {
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 2rem;
-  max-width: 800px;
+  grid-template-columns: 300px 300px;
+  gap: 4rem;
+  justify-content: center;
   margin: 3rem auto 0 auto;
-  padding: 0 4rem;
 }
 
 .gallery-grid-2col img {
