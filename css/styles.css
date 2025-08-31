@@ -78,8 +78,8 @@ main {
 .gallery-grid-2col {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  gap: 1.5rem;
-  max-width: 66.666%;
+  gap: 2rem;
+  max-width: 800px;
   margin: 3rem auto 0 auto;
 }
 
