@@ -75,10 +75,13 @@ main {
   margin: 0 auto;
 }
 
+.gallery-spacer {
+  height: 2rem;
+}
+
 .gallery-grid-2col {
   display: grid;
   grid-template-columns: repeat(2, minmax(220px, 1fr));
-  gap: 1.5rem;
   max-width: 1200px;
   margin: 0 auto;
   justify-content: center;
