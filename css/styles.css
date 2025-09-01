@@ -7,6 +7,16 @@ body {
   overflow-x: hidden;
 }
 
+/* Hide scrollbars while keeping scroll functionality */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
 header {
   background-color: #333333;
   border-bottom: 1px solid #222;
