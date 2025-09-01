@@ -130,6 +130,10 @@ main {
   padding: 0;
 }
 
+.home-content.arsenal-font {
+  font-size: 18px;
+}
+
 .home-content {
   padding: 2rem;
   max-width: 800px;
