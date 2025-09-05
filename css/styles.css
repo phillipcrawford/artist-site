@@ -161,20 +161,20 @@ main {
   text-align: center;
 }
 
-.home-content .right-aligned {
+.home-content.arsenal-font .right-aligned {
   text-align: right;
 }
 
-.home-content .inspiration-process {
+.home-content.arsenal-font .inspiration-process {
   text-align: center;
 }
 
-.home-content .centered-header {
+.home-content.arsenal-font .centered-header {
   display: block;
   text-align: center;
 }
 
-.home-content .right-aligned-text {
+.home-content.arsenal-font .right-aligned-text {
   display: block;
   text-align: right;
 }
