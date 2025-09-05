@@ -162,22 +162,21 @@ main {
 }
 
 .home-content.arsenal-font .left-aligned {
-  text-align: left;
+  text-align: left !important;
 }
 
 .home-content.arsenal-font .inspiration-process {
-  text-align: left;
-  margin-bottom: 0;
+  text-align: left !important;
 }
 
 .home-content.arsenal-font .centered-header {
   display: block;
-  text-align: center;
-  margin-bottom: 0;
+  text-align: center !important;
 }
 
 .home-content.arsenal-font .inspiration-process br {
-  line-height: 0.5;
+  line-height: 1;
+  margin: 0;
 }
 
 .biography-content.arsenal-font {
