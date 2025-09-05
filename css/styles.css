@@ -161,24 +161,6 @@ main {
   text-align: center;
 }
 
-.home-content.arsenal-font .left-aligned {
-  text-align: left !important;
-}
-
-.home-content.arsenal-font .inspiration-process {
-  text-align: left !important;
-}
-
-.home-content.arsenal-font .centered-header {
-  display: block;
-  text-align: center !important;
-}
-
-.home-content.arsenal-font .inspiration-process br {
-  line-height: 1;
-  margin: 0;
-}
-
 .biography-content.arsenal-font {
   font-size: 18px;
 }
