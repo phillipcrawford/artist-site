@@ -161,6 +161,24 @@ main {
   text-align: center;
 }
 
+.home-content .right-aligned {
+  text-align: right;
+}
+
+.home-content .inspiration-process {
+  text-align: center;
+}
+
+.home-content .centered-header {
+  display: block;
+  text-align: center;
+}
+
+.home-content .right-aligned-text {
+  display: block;
+  text-align: right;
+}
+
 .biography-content.arsenal-font {
   font-size: 18px;
 }
