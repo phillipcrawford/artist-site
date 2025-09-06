@@ -30,16 +30,16 @@ const paintings = [
     id: 4,
     title: "Flowers on the Altar",
     medium: "Oil on canvas",
-    dimensions: '30" x 40"',
+    dimensions: '26"L x 20"W',
     year: 2022,
     description: "For many years I donated money to our church for flowers on the altar to commemorate my husband Jeff's birthday.",
     image: "images/flowers_on_the_altar.jpg"
   },
   {
     id: 5,
-    title: "Birthday Bouquet",
+    title: "Yellow Bouquet",
     medium: "Oil on canvas",
-    dimensions: '30" x 40"',
+    dimensions: '30"L x 24"W',
     year: 2022,
     description: "Flowers sent to me on my 70th birthday from my brother Jon who lives on Long Island. It is a painting that was painted over a nude I had formerly painted, hence vestiges of skin color in areas around the vase.",
     image: "images/yellow_bouquet.jpg"
@@ -51,7 +51,7 @@ const paintings = [
     medium: "Oil on canvas",
     dimensions: '24" L x 30" W',
     year: 2022,
-    description: "This still life was set up in the studio of artist, Diana Tremaine. I have had the pleasure of working with her and several other artists in her studio over several years. She has much to do with my development as an artist.",
+    description: "This still life was set up in the studio of artist, Diana Tremaine. I have had the pleasure of working with her and several other artists in her studio over several years. She has much to do with my development as an artist. I loved concentrating on the Reds in the red bell pepper and finding the form as I painted. This painting has been sold. But Giclees are available. ",
     image: "images/peppers.jpg"
   },
   {
