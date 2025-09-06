@@ -28,22 +28,23 @@ const paintings = [
   },
   {
     id: 4,
+    title: "Flowers on the Altar",
+    medium: "Oil on canvas",
+    dimensions: '30" x 40"',
+    year: 2022,
+    description: "For many years I donated money to our church for flowers on the altar to commemorate my husband Jeff's birthday.",
+    image: "images/flowers_on_the_altar.jpg"
+  },
+  {
+    id: 5,
     title: "Birthday Bouquet",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
     year: 2022,
     description: "Flowers sent to me on my 70th birthday from my brother Jon who lives on Long Island. It is a painting that was painted over a nude I had formerly painted, hence vestiges of skin color in areas around the vase.",
-    image: "images/birthday_bouquet.jpg"
+    image: "images/yellow_bouquet.jpg"
   },
-  {
-    id: 5,
-    title: "Flowers on the Alter",
-    medium: "Oil on canvas",
-    dimensions: '30" x 40"',
-    year: 2022,
-    description: "For many years I donated money to our church for flowers on the altar to commemorate my husband Jeff's birthday.",
-    image: "images/flowers_on_the_alter.jpg"
-  },
+
   {
     id: 6,
     title: "Peppers",
