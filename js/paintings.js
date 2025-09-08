@@ -3,7 +3,7 @@ const paintings = [
     id: 1,
     title: "Yellow Watering Can",
     medium: "Oil on canvas",
-    dimensions: '40" L x 30" W',
+    dimensions: '40"L x 30"W',
     description: "Painting this still-life brought me much pleasure and taught me a few painting insights. The first was the value of beginning with an underpainting, usually an acrylic color, before tackling any details. For this piece I tinted purple with some white and, in this case, the coolness of that color electrified the large central object, a yellow watering can. The yellow began to glow as I painted over the cool purple. For the first time, I had to deal with reflective properties of a metal bowl and with highlights to make the metal metallic. Such joy before my very eyes. Behind the various objects chosen by artist mentor Diana Tremaine, as she staged this particular still-life, she included a patterned woolen blanket as backdrop: its tactile presence in the multi-level arrangement challenged this painter. The Yellow Watering Can is a painting over which a viewer might linger to discover a multitude of objects and the play of yellows, purples and reds.",
     image: "images/yellow_watering_can.jpg"
   },  
@@ -11,7 +11,7 @@ const paintings = [
     id: 2,
     title: "Still Life in Greens",
     medium: "Oil on canvas",
-    dimensions: 'unknown', //24" x 36"
+    dimensions: '29"L x 23"W',
     description: "While painting in Diana Tremaine’s studio, she suggested I treat a still life I was about to paint to brush strokes that mirrored Cezanne’s. I loved consciously adopting Cezanne’s brush dance on this canvas, his charming ways of accenting color by outlining objects only slightly. Hardly any dead, flat spaces of color. They all shimmer, alive with accented brush marks. His background colors vie for the attention of foreground ones. Color for Cezanne, takes on the importance of form. Intuitively, I too have most often, in early works as well as present ones, sublimated form, and sought to make color dominant.",
     image: "images/still_life_in_greens_2.jpg"
   },
@@ -19,7 +19,7 @@ const paintings = [
     id: 3,
     title: "Hey Day Window",
     medium: "Oil on canvas",
-    dimensions: '30" x 40"',
+    dimensions: '27"L x 23"W',
     description: "",
     image: "images/hey_day_window_original.jpg"
   },
