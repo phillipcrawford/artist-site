@@ -58,7 +58,7 @@ const paintings = [
   },
   {
     id: 8,
-    title: "Subway 1",
+    title: "Three Distracted People",
     medium: "Oil on canvas",
     dimensions: '24" L x 30" W',
     description: "The subjects of these paintings, by their to cell phone or computer subjugation, can alert us as to the value of resisting being so overtaken and reminding us to sharpen the ways we make choices, thereby benefitting us in terms of strengthening relationships, paying attention to our surroundings, natural or otherwise, choices the paintings allude to, while enriching our urban and/or environmental lives, living more in the real moment than the virtual one. It is the virtual that readies us for Ai, something to consider.",
@@ -67,9 +67,9 @@ const paintings = [
   },
   {
     id: 9,
-    title: "Subway 2",
+    title: "One Asian Gal In Car 240",
     medium: "Oil on canvas",
-    dimensions: '24" L x 30" W',
+    dimensions: '30" L x 24" W',
     description: "Still Lifes are captivating themselves. There is a stillness into which the viewer is invited to partake. Brush strokes and color take on new precedence, as the singleness of the subject calls for added attention. Simple beauty still feeds us. People intently focused on their screens and silenced by them usher forth that same stillness. Such inactivity, save for finger dancing, brings them/us closer to the placidity of a painting of a vase of flowers, a plate with objects of fruit than the subject we term “alive.” I paint lovingly, nonetheless. These portraits represent this time in the human continuum, while the Still Lifes harken us back to our halcyon days.",
     //description: "This still life was set up in the studio of artist, Diana Tremaine. I have had the pleasure of working with her and several other artists in her studio over several years. She has much to do with my development as an artist. I loved concentrating on the Reds in the red bell pepper and finding the form as I painted. This painting has been sold. But Giclees are available. ",
     image: "images/subway2.jpg"
