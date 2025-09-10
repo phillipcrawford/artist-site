@@ -102,6 +102,7 @@ main {
 
 .gallery h2.arsenal-font {
   text-align: center;
+  font-size: 18px;
   margin-bottom: 2rem;
 }
 
@@ -113,32 +114,7 @@ main {
   margin: 0 auto;
   align-items: center;
 }
-/*
-.gallery-spacer {
-  height: 2rem;
-}
 
-.gallery-grid-2col {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(220px, 1fr));
-  max-width: 1200px;
-  margin: 0 auto;
-  justify-content: center;
-}
-
-.gallery-grid-2col img {
-  width: 100%;
-  height: auto;
-  border: 2px solid #ccc;
-  border-radius: 4px;
-  transition: transform 0.2s ease;
-}
-
-.gallery-grid-2col img:hover {
-  transform: scale(1.03);
-  border-color: #999;
-}
-*/
 .gallery-grid img {
   width: 100%;
   height: auto;
