@@ -5,6 +5,7 @@
       .favicon-text {
         font-family: 'Shadows Into Light', cursive;
         font-size: 16px;
+        font-weight: bold;
         fill: white;
         text-anchor: middle;
         dominant-baseline: central;
@@ -16,5 +17,5 @@
     </linearGradient>
   </defs>
   <rect width="32" height="32" rx="4" ry="4" fill="url(#greyGradient)"/>
-  <text x="16" y="16" class="favicon-text">JS</text>
+  <text x="16" y="16" class="favicon-text">J S</text>
 </svg>
