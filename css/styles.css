@@ -96,6 +96,13 @@ main {
   transition: transform 0.2s ease;
 }
 
+.gallery img {
+    width: 200px;
+    height: auto
+    cursor: pointer;
+    border: 1px solid #ccc;
+}
+
 .gallery-grid img:hover {
   transform: scale(1.03);
   border-color: #999;
