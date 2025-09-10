@@ -50,6 +50,14 @@ const paintings = [
   },
   {
     id: 7,
+    title: "Still Lifes & Still Lives",
+    medium: "Oil on canvas",
+    dimensions: '30" x 40"',
+    description: "I envision a gallery show, entitled: STILL LIFES & STILL LIVES : A NEXUS. I envision the show being half traditional Still Life in oils and also a similar number of oils showcasing people enabled by their attachment to cell phones or computers… people who can readily be considered Still Live’s, thus a nexus. This is a show that encourages more than artistic ways of seeing; it asks the viewers to consider the implications of calling the human subjects still lives, and in so doing leading the viewer to cast judgement upon the scenes at hand, the way the elderly gent in the MOMA proffers indignation. In truth, the painter herself chose these subjects, ironically photographing with my cell phone, as examples of contemporary humankind’s undergoing capture by technology. They, we, find it difficult to resist the ways the media subdues our attention, of which there is a finite amount. The subjects of these paintings, by their to cell phone or computer subjugation, can alert us as to the value of resisting being so overtaken and reminding us to sharpen the ways we make choices, thereby benefitting us in terms of strengthening relationships, paying attention to our surroundings, natural or otherwise, choices the paintings allude to, while enriching our urban and/or environmental lives, living more in the real moment than the virtual one. It is the virtual that readies us for Ai, something to consider. Still Lifes are captivating themselves. There is a stillness into which the viewer is invited to partake. Brush strokes and color take on new precedence, as the singleness of the subject calls for added attention. Simple beauty still feeds us. People intently focused on their screens and silenced by them usher forth that same stillness. Such inactivity, save for finger dancing, brings them/us closer to the placidity of a painting of a vase of flowers, a plate with objects of fruit than the subject we term “alive.” I paint lovingly, nonetheless. These portraits represent this time in the human continuum, while the Still Lifes harken us back to our halcyon days."
+    image: "images/BFTH.jpg"
+  },
+  {
+    id: 8,
     title: "Bozeman From The Heart",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
@@ -57,7 +65,7 @@ const paintings = [
     image: "images/BFTH.jpg"
   },
   {
-    id: 8,
+    id: 9,
     title: "Dennis",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
@@ -65,7 +73,7 @@ const paintings = [
     image: "images/cat4.jpg"
   },
   {
-    id: 9,
+    id: 10,
     title: "Elliot",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
@@ -73,7 +81,7 @@ const paintings = [
     image: "images/cat2.jpg"
   },
   {
-    id: 10,
+    id: 11,
     title: "Ferdinand",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
