@@ -78,16 +78,16 @@ main {
   margin-bottom: 2rem;
   font-family: 'Arsenal', sans-serif;
 }
-/*
+
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(2, minmax(220px, 1fr));
   gap: 1.5rem;
   max-width: 1200px;
   margin: 0 auto;
   align-items: center;
 }
-*/
+
 .gallery-grid img {
   width: 100%;
   height: auto;
