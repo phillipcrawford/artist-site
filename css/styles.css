@@ -96,11 +96,11 @@ main {
   margin: 0 0 1rem 1rem;
 }
 
-.gallery {
+.gallery-content {
   padding: 2rem;
 }
 
-.gallery h2 {
+.gallery-content h2 {
   text-align: center;
   font-size: 18px;
   margin-bottom: 2rem;
@@ -134,7 +134,7 @@ main {
   align-items: center;
 }
 
-.gallery-item-text {
+.gallery-content .gallery-item-text {
   margin-top: 0.5rem;
   font-size: 0.9rem;
   color: #333;
@@ -180,7 +180,7 @@ main.arsenal-font {
 }
 
 .gallery-content.arsenal-font {
-
+  font-size: 18px;
 }
 
 .home-content {
