@@ -49,7 +49,7 @@ const paintings = [
   },
   {
     id: 7,
-    title: "Texting In The MOMA",
+    title: "Texting In The MoMA",
     medium: "Oil on canvas",
     dimensions: '10" L x 16" W',
     description: "I envision a gallery show, entitled: STILL LIFES & STILL LIVES : A NEXUS. I envision the show being half traditional Still Life in oils and also a similar number of oils showcasing people enabled by their attachment to cell phones or computers… people who can readily be considered Still Live’s, thus a nexus. This is a show that encourages more than artistic ways of seeing; it asks the viewers to consider the implications of calling the human subjects still lives, and in so doing leading the viewer to cast judgement upon the scenes at hand, the way the elderly gent in the MOMA proffers indignation. In truth, the painter herself chose these subjects, ironically photographing with my cell phone, as examples of contemporary humankind’s undergoing capture by technology. They, we, find it difficult to resist the ways the media subdues our attention, of which there is a finite amount. ",
@@ -73,7 +73,9 @@ const paintings = [
     description: "Still Lifes are captivating themselves. There is a stillness into which the viewer is invited to partake. Brush strokes and color take on new precedence, as the singleness of the subject calls for added attention. Simple beauty still feeds us. People intently focused on their screens and silenced by them usher forth that same stillness. Such inactivity, save for finger dancing, brings them/us closer to the placidity of a painting of a vase of flowers, a plate with objects of fruit than the subject we term “alive.” I paint lovingly, nonetheless. These portraits represent this time in the human continuum, while the Still Lifes harken us back to our halcyon days.",
     //description: "This still life was set up in the studio of artist, Diana Tremaine. I have had the pleasure of working with her and several other artists in her studio over several years. She has much to do with my development as an artist. I loved concentrating on the Reds in the red bell pepper and finding the form as I painted. This painting has been sold. But Giclees are available. ",
     image: "images/subway2.jpg"
-  },
+  }
+];
+/*
   {
     id: 10,
     title: "Bozeman From The Heart",
@@ -108,3 +110,4 @@ const paintings = [
   }
   // Add more paintings as needed
 ];
+*/
