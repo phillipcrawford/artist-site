@@ -82,10 +82,10 @@ main {
 .gallery-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(220px, 1fr));
-  
+
   max-width: 1200px;
   margin: 0 auto;
-  align-items: center;
+  justify-content: center;
 }
 
 .gallery-grid img {
