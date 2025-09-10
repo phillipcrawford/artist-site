@@ -113,7 +113,7 @@ main {
   margin: 0 auto;
   align-items: center;
 }
-
+/*
 .gallery-spacer {
   height: 2rem;
 }
@@ -138,7 +138,7 @@ main {
   transform: scale(1.03);
   border-color: #999;
 }
-
+*/
 .gallery-grid img {
   width: 100%;
   height: auto;
