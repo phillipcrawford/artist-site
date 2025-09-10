@@ -100,7 +100,7 @@ main {
   padding: 2rem;
 }
 
-.gallery h2.arsenal-font {
+.gallery h2 {
   text-align: center;
   font-size: 18px;
   margin-bottom: 2rem;
@@ -134,7 +134,7 @@ main {
   align-items: center;
 }
 
-.gallery-item-text.arsenal-font {
+.gallery-item-text {
   margin-top: 0.5rem;
   font-size: 0.9rem;
   color: #333;
@@ -177,6 +177,10 @@ main {
 
 main.arsenal-font {
   font-size: 18px;
+}
+
+.gallery-content.arsenal-font {
+
 }
 
 .home-content {
