@@ -39,7 +39,6 @@ const paintings = [
     description: "Flowers sent to me on my 70th birthday from my brother Jon who lives on Long Island. It is a painting that was painted over a nude I had formerly painted, hence vestiges of skin color in areas around the vase.",
     image: "images/yellow_bouquet.jpg"
   },
-
   {
     id: 6,
     title: "Peppers",
