@@ -58,6 +58,22 @@ const paintings = [
   },
   {
     id: 8,
+    title: "Subway 1",
+    medium: "Oil on canvas",
+    dimensions: '24" L x 30" W',
+    description: "This still life was set up in the studio of artist, Diana Tremaine. I have had the pleasure of working with her and several other artists in her studio over several years. She has much to do with my development as an artist. I loved concentrating on the Reds in the red bell pepper and finding the form as I painted. This painting has been sold. But Giclees are available. ",
+    image: "images/subway1.jpg"
+  },
+  {
+    id: 9,
+    title: "Subway 2",
+    medium: "Oil on canvas",
+    dimensions: '24" L x 30" W',
+    description: "This still life was set up in the studio of artist, Diana Tremaine. I have had the pleasure of working with her and several other artists in her studio over several years. She has much to do with my development as an artist. I loved concentrating on the Reds in the red bell pepper and finding the form as I painted. This painting has been sold. But Giclees are available. ",
+    image: "images/subway2.jpg"
+  },
+  {
+    id: 10,
     title: "Bozeman From The Heart",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
@@ -65,7 +81,7 @@ const paintings = [
     image: "images/BFTH.jpg"
   },
   {
-    id: 9,
+    id: 11,
     title: "Dennis",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
@@ -73,7 +89,7 @@ const paintings = [
     image: "images/cat4.jpg"
   },
   {
-    id: 10,
+    id: 12,
     title: "Elliot",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
@@ -81,7 +97,7 @@ const paintings = [
     image: "images/cat2.jpg"
   },
   {
-    id: 11,
+    id: 13,
     title: "Ferdinand",
     medium: "Oil on canvas",
     dimensions: '30" x 40"',
