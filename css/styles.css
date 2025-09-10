@@ -100,10 +100,9 @@ main {
   padding: 2rem;
 }
 
-.gallery h2 {
+.gallery h2.arsenal-font {
   text-align: center;
   margin-bottom: 2rem;
-  font-family: 'Arsenal', sans-serif;
 }
 
 .gallery-grid {
@@ -159,12 +158,11 @@ main {
   align-items: center;
 }
 
-.gallery-item-text {
+.gallery-item-text.arsenal-font {
   margin-top: 0.5rem;
   font-size: 0.9rem;
   color: #333;
   text-align: center;
-  font-family: 'Arsenal', sans-serif;
   width: 100%;
 }
 
