@@ -76,6 +76,7 @@ main {
 .gallery h2 {
   text-align: center;
   margin-bottom: 2rem;
+  font-family: 'Arsenal', sans-serif;
 }
 
 .gallery-grid {
