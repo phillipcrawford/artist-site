@@ -55,7 +55,7 @@ nav {
 
 nav a {
   text-decoration: none;
-  color: #ffffff;
+  color: #f5f5f5;
   font-weight: bold;
   font-size: 1rem;
 }
@@ -180,6 +180,7 @@ main.arsenal-font {
 }
 
 .gallery-content.arsenal-font {
+  color: #f5f5f5;
   font-size: 18px;
 }
 
