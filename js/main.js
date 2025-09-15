@@ -1,1 +1,0 @@
-// Placeholder for lightbox or interactivity later
