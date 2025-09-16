@@ -20,7 +20,7 @@ const paintings = [
     title: "Hey Day Window",
     medium: "Oil on canvas",
     dimensions: '27"L x 23"W',
-    description: "",
+    description: "While walking around downtown for the express purpose of finding buildings and businesses for a painting subject, I happened upon this Easter outside window of a rather new store in Bozeman. I loved everything about the way the window was set up, the objects, their placements, the color scheme, the rather hidden Easter message thus the totality of it proved to me to be an exciting possibility for a painting. I don’t remember completing a painting as quickly, as self-assuredly as this one, taken from a photo image.",
     image: "images/hey_day_window_original.jpg"
   },
   {
