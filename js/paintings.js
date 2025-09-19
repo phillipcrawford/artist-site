@@ -60,7 +60,7 @@ const paintings = [
     title: "Three Distracted People",
     medium: "Oil on canvas",
     dimensions: '24" L x 30" W',
-    description: "The subjects of these paintings, by their to cell phone or computer subjugation, can alert us as to the value of resisting being so overtaken and reminding us to sharpen the ways we make choices, thereby benefitting us in terms of strengthening relationships, paying attention to our surroundings, natural or otherwise, choices the paintings allude to, while enriching our urban and/or environmental lives, living more in the real moment than the virtual one. It is the virtual that readies us for Ai, something to consider.",
+    description: "The subjects of these paintings, by their fealty to cell phone or computer subjugation, can alert us as to the value of resisting being so overtaken and reminding us to sharpen the ways we make choices, thereby benefitting us in terms of strengthening relationships, paying attention to our surroundings, natural or otherwise, choices some paintings allude to, while enriching our urban and/or rural lives, choosing to live more in the real moment than the virtual one. It is the virtual that readies us for AI, something to consider.",
     image: "images/subway1.jpg"
   },
   {
