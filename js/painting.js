@@ -14,6 +14,14 @@ if (painting) {
   document.getElementById("painting-medium").textContent = painting.medium;
   document.getElementById("painting-dimensions").textContent = painting.dimensions;
   document.getElementById("painting-description").textContent = painting.description;
+
+  // Set the back link based on painting ID
+  const backLink = document.getElementById("back-link");
+  if (paintingId >= 13) {
+    backLink.href = "gallery2.html";
+  } else {
+    backLink.href = "gallery.html";
+  }
 } else {
   document.querySelector(".painting-container").innerHTML = "<p>Painting not found.</p>";
 }
