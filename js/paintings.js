@@ -101,7 +101,7 @@ const paintings = [
     medium: "Oil on canvas",
     dimensions: '28 1/2" L x 23 1/2" W',
     description: "",
-    image: "images/gripped_by_two_worlds.jpg"
+    image: "images/hill_street_stellars_jay.jpg"
   }
 ];
 /*
