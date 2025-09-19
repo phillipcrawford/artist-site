@@ -101,6 +101,10 @@ main {
   padding-bottom: 16rem;
 }
 
+.gallery-content-compact {
+  padding-bottom: 4rem;
+}
+
 .gallery-content.arsenal-font h2 {
   text-align: center;
   margin-bottom: 2rem;
