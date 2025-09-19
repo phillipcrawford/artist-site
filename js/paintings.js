@@ -68,7 +68,7 @@ const paintings = [
     title: "One Asian Gal In Car 240",
     medium: "Oil on canvas",
     dimensions: '30" L x 24" W',
-    description: "Still Lifes are captivating themselves. There is a stillness into which the viewer is invited to partake. Brush strokes and color take on new precedence, as the singleness of the subject calls for added attention. Simple beauty still feeds us. People intently focused on their screens and silenced by them usher forth that same stillness. Such inactivity, save for finger dancing, brings them/us closer to the placidity of a painting of a vase of flowers, a plate with objects of fruit than the subject we term “alive.” I paint lovingly, nonetheless. These portraits represent this time in the human continuum, while the Still Lifes harken us back to our halcyon days.",
+    description: "",
     image: "images/subway2.jpg"
   },
   {
@@ -92,6 +92,14 @@ const paintings = [
     title: "Gripped By Two Worlds",
     medium: "Oil on canvas",
     dimensions: '19" W x 15" L',
+    description: "",
+    image: "images/gripped_by_two_worlds.jpg"
+  },
+  {
+    id: 13,
+    title: "Hill Street Stellars Jay",
+    medium: "Oil on canvas",
+    dimensions: '28 1/2" L x 23 1/2" W',
     description: "",
     image: "images/gripped_by_two_worlds.jpg"
   }
