@@ -97,12 +97,20 @@ const paintings = [
   },
   {
     id: 13,
+    title: "Hill Street Tanagers",
+    medium: "Oil on canvas",
+    dimensions: '28 Placeholder',
+    description: "",
+    image: "images/safford_bird_watching.jpg"
+  },
+  {
+    id: 14,
     title: "Hill Street Stellars Jay",
     medium: "Oil on canvas",
     dimensions: '28 1/2" L x 23 1/2" W',
     description: "",
     image: "images/hill_street_stellars_jay.jpg"
-  }
+  },
 ];
 /*
   {
