@@ -108,7 +108,8 @@ const paintings = [
     title: "Hill Street Stellars Jay",
     medium: "Oil on canvas",
     dimensions: '28 1/2" L x 23 1/2" W',
-    description: "",
+    description: "price, $3,000\n" +
+                 "Hill Street Tanager\n",
     image: "images/hill_street_stellars_jay.jpg"
   },
 ];
