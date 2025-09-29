@@ -135,6 +135,14 @@ const paintings = [
     description: "",
     image: "images/hill_street_stellars_jay.jpg"
   },
+  {
+    id: 15,
+    title: "Asian Collared Dove",
+    medium: "Oil on canvas",
+    dimensions: '30" L x 24" W',
+    description: "",
+    image: "images/asian_collared_dove.jpg"
+  },
 ];
 /*
   {
