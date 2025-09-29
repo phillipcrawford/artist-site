@@ -99,7 +99,7 @@ const paintings = [
     id: 13,
     title: "Hill Street Tanagers",
     medium: "Oil on canvas",
-    dimensions: '28 Placeholder',
+    dimensions: '36" L x 24" W',
     description: "",
     image: "images/safford_bird_watching.jpg"
   },
