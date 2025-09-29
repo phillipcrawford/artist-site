@@ -124,7 +124,7 @@ const paintings = [
                  "on a Tuesday he clamors for his Peterson Guide\n" +
                  "to certify that what we have on a limb\n" +
                  "of a juniper close by is a White Winged Dove\n" +
-                 "such an undeserved distance from home."
+                 "such an undeserved distance from home.",
     image: "images/safford_bird_watching.jpg"
   },
   {
