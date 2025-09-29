@@ -97,7 +97,7 @@ const paintings = [
   },
   {
     id: 13,
-    title: "Hill Street Tanagers",
+    title: "Hill Street Tanager",
     price: "$3000",
     medium: "Oil on canvas",
     dimensions: '36" L x 24" W',
