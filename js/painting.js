@@ -15,6 +15,15 @@ if (painting) {
   document.getElementById("painting-dimensions").textContent = painting.dimensions;
   document.getElementById("painting-description").textContent = painting.description;
 
+  // Show price section only if painting has a price
+  const priceSection = document.getElementById("painting-price-section");
+  if (painting.price) {
+    document.getElementById("painting-price").textContent = painting.price;
+    priceSection.style.display = "block";
+  } else {
+    priceSection.style.display = "none";
+  }
+
   // Set the back link based on painting ID
   const backLink = document.getElementById("back-link");
   if (paintingId >= 13) {
