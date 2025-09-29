@@ -13,7 +13,7 @@ if (painting) {
   document.getElementById("painting-title").textContent = painting.title;
   document.getElementById("painting-medium").textContent = painting.medium;
   document.getElementById("painting-dimensions").textContent = painting.dimensions;
-  document.getElementById("painting-description").textContent = painting.description;
+  document.getElementById("painting-description").innerHTML = painting.description;
 
   // Show price section only if painting has a price
   const priceSection = document.getElementById("painting-price-section");

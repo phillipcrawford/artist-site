@@ -101,30 +101,30 @@ const paintings = [
     medium: "Oil on canvas",
     dimensions: '36" L x 24" W',
     price: "$3,000",
-    description: "Hill Street Tanager\n" +
-                 "June Billings Safford\n" +
-                 "I think of myself as a colorist, abstaining from using color direct from the tube, even taking the time to mix my grays from a host of color-squeezed opposites. I love to paint with shades I discover. What I, and perhaps many contemporary painters, hope for is the joy of surprise, the unexpected as a goal; giving up control is the name of our pursuit.\n" +
-                 "Most recently following my husband's passing, I have given thought to blending some definable painterly elements along with some unexpected strokes, by choosing to integrate three specific elements within the lovely chaos in a series of paintings. These elements are: a bird, a window, and binoculars to honor my birder husband's final predicament after being diagnosed with Parkinson's, the restriction of birding from inside. This painting is the 8th in a series.\n" +
-                 "Wherever his vision lands\n" +
-                 "I stock the feeders on the deck\n" +
-                 "daily, black-oiled sunflower seeds\n" +
-                 "which lure the chickadees and finches\n" +
-                 "into the magnifying glass\n" +
-                 "of the binoculars my husband holds\n" +
-                 "as he swivels in the black recliner\n" +
-                 "his private airport\n" +
-                 "thanks to the bay windows\n" +
-                 "raking in wherever his vision lands.\n" +
-                 "One day he hopes a stray bird\n" +
-                 "will find the border of our deck\n" +
-                 "to spread surprise across his scope.\n" +
-                 "It's migratory season and along with this\n" +
-                 "unexpected disease will come, he hopes,\n" +
-                 "a bird as lost as he and wouldn't you know,\n" +
-                 "on a Tuesday he clamors for his Peterson Guide\n" +
-                 "to certify that what we have on a limb\n" +
-                 "of a juniper close by is a White Winged Dove\n" +
-                 "such an undeserved distance from home.",
+    description: "I think of myself as a colorist, abstaining from using color direct from the tube, even taking the time to mix my grays from a host of color-squeezed opposites. I love to paint with shades I discover. What I, and perhaps many contemporary painters, hope for is the joy of surprise, the unexpected as a goal; giving up control is the name of our pursuit.\n\n" +
+                 "Most recently following my husband's passing, I have given thought to blending some definable painterly elements along with some unexpected strokes, by choosing to integrate three specific elements within the lovely chaos in a series of paintings. These elements are: a bird, a window, and binoculars to honor my birder husband's final predicament after being diagnosed with Parkinson's, the restriction of birding from inside. This painting is the 8th in a series.\n\n" +
+                 "<div class='poem-section'>" +
+                 "Wherever his vision lands<br>" +
+                 "I stock the feeders on the deck<br>" +
+                 "daily, black-oiled sunflower seeds<br>" +
+                 "which lure the chickadees and finches<br>" +
+                 "into the magnifying glass<br>" +
+                 "of the binoculars my husband holds<br>" +
+                 "as he swivels in the black recliner<br>" +
+                 "his private airport<br>" +
+                 "thanks to the bay windows<br>" +
+                 "raking in wherever his vision lands.<br>" +
+                 "One day he hopes a stray bird<br>" +
+                 "will find the border of our deck<br>" +
+                 "to spread surprise across his scope.<br>" +
+                 "It's migratory season and along with this<br>" +
+                 "unexpected disease will come, he hopes,<br>" +
+                 "a bird as lost as he and wouldn't you know,<br>" +
+                 "on a Tuesday he clamors for his Peterson Guide<br>" +
+                 "to certify that what we have on a limb<br>" +
+                 "of a juniper close by is a White Winged Dove<br>" +
+                 "such an undeserved distance from home." +
+                 "</div>",
     image: "images/safford_bird_watching.jpg"
   },
   {
