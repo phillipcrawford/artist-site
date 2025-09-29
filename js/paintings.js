@@ -98,9 +98,9 @@ const paintings = [
   {
     id: 13,
     title: "Hill Street Tanagers",
+    price: "$3000",
     medium: "Oil on canvas",
     dimensions: '36" L x 24" W',
-    price: "$3,000",
     description: "I think of myself as a colorist, abstaining from using color direct from the tube, even taking the time to mix my grays from a host of color-squeezed opposites. I love to paint with shades I discover. What I, and perhaps many contemporary painters, hope for is the joy of surprise, the unexpected as a goal; giving up control is the name of our pursuit.\n\n" +
                  "Most recently following my husband's passing, I have given thought to blending some definable painterly elements along with some unexpected strokes, by choosing to integrate three specific elements within the lovely chaos in a series of paintings. These elements are: a bird, a window, and binoculars to honor my birder husband's final predicament after being diagnosed with Parkinson's, the restriction of birding from inside. This painting is the 8th in a series.\n\n" +
                  "<div class='poem-section'>" +
