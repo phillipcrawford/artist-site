@@ -24,13 +24,9 @@ if (painting) {
     priceSection.style.display = "none";
   }
 
-  // Set the back link based on painting ID
+  // Set the back link to the main gallery
   const backLink = document.getElementById("back-link");
-  if (paintingId >= 13) {
-    backLink.href = "gallery2.html";
-  } else {
-    backLink.href = "gallery.html";
-  }
+  backLink.href = "gallery.html";
 } else {
   document.querySelector(".painting-container").innerHTML = "<p>Painting not found.</p>";
 }
